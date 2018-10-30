@@ -27,7 +27,7 @@
     <string name="no_choose_sex">您未选择性别！</string>
     <string name="time_error">借书的年份晚于还书时间，退出</string>
     <string name="find_no_book">未找到适合的读物！</string>
-    <string name="book_number">符合条件的书有%1$s</string>
+    <string name="book_number">符合条件的书有%1$s本</string>
     <string name="show_end">因为已到末尾，所以从头显示</string>
 
 </resources>
